@@ -1,6 +1,12 @@
-// 1)a) É uma função recursiva que imprime a sequencia fibonacci de n numeros
+// DISCIPLINA DE MATEMÁTICA DISCRETA
+// Integrantes: Guilherme Felippe da Silva Boiko, Matheus Pereira de Carvalho, Rafael Chagas Carvalho, Lucas Pereira da Silva
+
+// QUESTÃO 1:
+
+// a) É uma função recursiva que imprime a sequencia fibonacci de n numeros
 // b) A ordem de complexidade é o(n), pois há apenas um loop for podendo varias até n numeros apenas
 // c) O melhor código é o do loop, pois independente de qual seja o valor de n, a quantidade de operações matemáticas realizadas será sempre a mesma. O contrario na recurvisa que precisaria de muito mais poder computacional, pois as funções sao impilhadas e desempilhadas.
+
 #include <iostream>
 using namespace std;
 
