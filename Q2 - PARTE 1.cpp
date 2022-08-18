@@ -1,11 +1,11 @@
+// DISCIPLINA DE MATEMÁTICA DISCRETA
+// Integrantes: Guilherme Felippe da Silva Boiko, Matheus Pereira de Carvalho, Rafael Chagas Carvalho, Lucas Pereira da Silva
 
 // QUESTÃO 2:
 
-
-
 // X(0) = 1; X(n) = X * X(n-1) ;
-// A implementação recursiva se mostrou menos eficiente pois para cada chamada de uma função, recursiva ou não, os parâmetros e as variáveis locais são empilhados na pilha de execução.
-
+// A implementação não-recursiva/iterativa é a mais eficiente. O algoritmo recursivo embora mais compacto e claro, se mostra ineficiente por fazer uso intensivo da pilha (procedimentos reentrantes) 
+// ao registar o estado atual do processamento, o que torna a implementação recursiva nesse caso específico mais lenta.
 
 
 
