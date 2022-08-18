@@ -1,3 +1,8 @@
+// DISCIPLINA DE MATEMÁTICA DISCRETA
+// Integrantes: Guilherme Felippe da Silva Boiko, Matheus Pereira de Carvalho, Rafael Chagas Carvalho, Lucas Pereira da Silva
+
+//QUESTÃO 3:
+
 #include <iostream>
 using namespace std;
 
