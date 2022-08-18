@@ -1,5 +1,5 @@
-// GUILHERME FELIPPE DA SILVA BOIKO 2122361BCC
 // DISCIPLINA DE MATEMÁTICA DISCRETA
+// Integrantes: Guilherme Felippe da Silva Boiko, Matheus Pereira de Carvalho, Rafael Chagas Carvalho, Lucas Pereira da Silva
 
 
 // QUESTÃO 2:
