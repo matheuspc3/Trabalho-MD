@@ -1,13 +1,11 @@
-// GUILHERME FELIPPE DA SILVA BOIKO 2122361BCC
-// DISCIPLINA DE MATEMÁTICA DISCRETA
 
 // QUESTÃO 2:
 
 
 
-// T(0) = 1;
-// T(b,n) = 1 + T(b,n-1);
-// A implementação não-recursiva se mostrou 
+// X(0) = 1; X(n) = X * X(n-1) ;
+// A implementação recursiva se mostrou menos eficiente pois para cada chamada de uma função, recursiva ou não, os parâmetros e as variáveis locais são empilhados na pilha de execução.
+
 
 
 
